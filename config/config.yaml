@@ -1,0 +1,5 @@
+detection:
+  model: yolov8n.pt
+  confidence: 0.5
+ocr:
+  languages: [en]
